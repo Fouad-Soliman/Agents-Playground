@@ -34,6 +34,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kiwisolver==1.4.7
 langchain==0.3.13
+langchain_google_genai==2.0.9
 langchain-core==0.3.28
 langchain-text-splitters==0.3.4
 langgraph==0.2.60
